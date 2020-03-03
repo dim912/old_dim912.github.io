@@ -10,7 +10,7 @@ body {
 
 #header {
   color: rgb(255, 183, 195);
-  font-size: 60px;
+  font-size: 50px;
   font-family: fantasy;
   padding-bottom: 50px;
 }
@@ -32,12 +32,12 @@ body {
 
 #title {
   color: white;
-  font-size: 25px;
+  font-size: 20px;
   font-family: fantasy;
 }
 
 #date {
   color: rgb(255, 183, 195);
-  font-size: 20px;
+  font-size: 12px;
   font-family: fantasy;
 }
