@@ -1,6 +1,36 @@
 body {
   background-color: black;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#header {
   color: rgb(255, 183, 195);
   font-size: 50px;
+  font-family: fantasy;
+  padding-bottom: 50px;
+}
+
+#write {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(255, 183, 195);
+  padding-bottom: 50px;
+}
+
+#title {
+  color: rgb(255, 183, 195);
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+#date {
+  color: rgb(255, 183, 195);
+  font-size: 12px;
   font-family: fantasy;
 }
